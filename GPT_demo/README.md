@@ -3,5 +3,3 @@ These are the source codes for the EG_IGS Demonstration using GPT-3.5 as an orac
 To run the server a Django setup is needed:
 
 python .\mysite\manage.py runserver
-
-A demonstration picture is attached.
