@@ -23,4 +23,4 @@ python .\mysite\manage.py runserver
 
 A GPT API token is also needed in .\mysite\mysite\ChatGPT_demo.py
 
-A demonstration picture is attached.
+A demonstration picture (demon_pic) and a demonstration video (demon_video) are attached.
