@@ -12,8 +12,8 @@ numpy 1.24.2
 # To test EG-IGS
 python EG_IGS_test.py
 
-# To test TG-IGS
-python TG_IGS_test.py
+# To test TS-IGS
+python TS_IGS_test.py
 
 # EG_IGS_GPT_Demo
 The source codes for the EG_IGS Demonstration using GPT-3.5 as an oracle are in folder GPT_demo_source_code. It is a website and back-end application based on Django.
